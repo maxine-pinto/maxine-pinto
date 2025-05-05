@@ -7,7 +7,7 @@
 🌱 Continuously learning, building, and growing in public.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![maxine's github stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![maxine's github stats](https://github-readme-stats.vercel.app/api?username=Maxine&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
 ## 💻  Development Tools
 
