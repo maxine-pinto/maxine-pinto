@@ -9,7 +9,7 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Maxine's github stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
-## 💻 Development Tools
+## 💻  Development Tools
 
 <!-- Programming Languages -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
