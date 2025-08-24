@@ -5,8 +5,8 @@
 🧠 I approach my learning journey with discipline and curiosity, always eager to pick up new coding languages.<br/>
 🤝 Strong believer in teamwork and clear communication to deliver effective solutions.<br/>
 🌱 Continuously learning, building, and growing in public.
-
-![Maxine's github stats](https://github-readme-stats.vercel.app/api?username=maxine-pinto&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+##
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxine-pinto&layout=compact&theme=radical)
 
 ## 💻  Development Tools
 
